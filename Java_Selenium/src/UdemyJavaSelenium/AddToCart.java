@@ -25,6 +25,21 @@ public class AddToCart {
 
         String[] fruit = { "Brocolli", "Onion", "Banana" };
 
+               
+
+        // for (int i = 0; i <Products.size(); i++) {
+
+        //     String Product = Products.get(i).getText();
+        //     List fruitsneeded = Arrays.asList(fruit);
+            
+        //     if(fruitsneeded.contains(Product)){
+        //         driver.findElements(By.xpath("//button[text()='ADD TO CART']")).get(i).click();
+        //             System.out.println(fruitsneeded + " added to the cart");
+        
+        //     }
+            
+        // }
+
         for (WebElement product : Products) {
             String name = product.getText();
             // System.out.println(name);
