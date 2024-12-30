@@ -1,4 +1,4 @@
-package Practice.Webtable;
+package UdemyJavaSelenium.Webtable;
 
 import java.util.List;
 

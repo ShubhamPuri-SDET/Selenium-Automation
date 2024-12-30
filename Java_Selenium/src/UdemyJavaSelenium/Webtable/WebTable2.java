@@ -1,4 +1,4 @@
-package Practice.Webtable;
+package UdemyJavaSelenium.Webtable;
 
 import java.time.Duration;
 
@@ -6,14 +6,16 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WindowType;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class WebTable2 extends Basepage {
+import Utility.basepackage;
+
+public class WebTable2 extends basepackage {
     public static void main(String[] args) {
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
-        driver.get(url);
+        driver.get(URL);
         driver.findElement(By.xpath("//td[text()='Selenium']//preceding-sibling::td//input")).click();
         driver.close();
-        driver.switchTo().newWindow(WindowType.TAB).get(url);
+        driver.switchTo().newWindow(WindowType.TAB).get(URL);
         driver.findElement(By.xpath("//td[text( ) ='Ola']//following-sibling::td[3]//a")).click();
 
         // WebElement seleniumCheckbox = driver
