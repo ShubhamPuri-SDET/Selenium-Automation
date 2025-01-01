@@ -1,4 +1,4 @@
-package MediaAutomation;
+package Main;
 
 public class Mailosour {
 

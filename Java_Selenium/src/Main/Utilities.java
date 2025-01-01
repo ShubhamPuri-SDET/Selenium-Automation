@@ -1,4 +1,4 @@
-package MediaAutomation;
+package Main;
 
 import org.openqa.selenium.WebDriver;
 
