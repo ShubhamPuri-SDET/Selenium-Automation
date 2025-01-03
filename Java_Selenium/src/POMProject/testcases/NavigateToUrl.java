@@ -19,8 +19,9 @@ public class NavigateToUrl {
 
         googlesearchpage.searchbar(driver).sendKeys("Amazon");
         googlesearchpage.searchbar(driver).sendKeys(Keys.RETURN);
+        googlesearchpage.search(driver).click();
         // driver.findElement(By.name("btnk")).sendKeys(Keys.RETURN);
-        System.out.println(driver.getTitle());
+        // System.out.println(driver.getTitle());
         driver.close();
 
     }

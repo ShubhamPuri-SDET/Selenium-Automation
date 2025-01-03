@@ -12,6 +12,7 @@ public class Automate_Amazon {
     public static void main(String[] args) throws IOException, InterruptedException {
 
         WebDriver driver = new ChromeDriver();
+        // driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
         driver.manage().window().maximize();
 
         String[] Product = {"Smartphone", "toys", "Shirt"};

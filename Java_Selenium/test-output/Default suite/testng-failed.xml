@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="test.LoginLogout">
+      <class name="POMProject.testcases.NavigationwithTestNg">
         <methods>
-          <include name="testLoginLogout"/>
-          <include name="setUp"/>
-          <include name="tearDown"/>
+          <include name="closebrowser"/>
+          <include name="googlesearch"/>
+          <include name="setupdriver"/>
         </methods>
-      </class> <!-- test.LoginLogout -->
+      </class> <!-- POMProject.testcases.NavigationwithTestNg -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

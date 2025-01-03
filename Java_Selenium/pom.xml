@@ -1,42 +1,50 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>Java_Selenium</groupId>
-  <artifactId>Java_Selenium</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
-  <name>Java_Selenium</name>
-  <build>
-    <sourceDirectory>src</sourceDirectory>
-    <plugins>
-      <plugin>
-        <artifactId>maven-compiler-plugin</artifactId>
-        <version>3.8.1</version>
-        <configuration>
-          <release>21</release>
-        </configuration>
-      </plugin>
-    
-    <plugin>
-	  <groupId>org.apache.maven.plugins</groupId>
-      <artifactId>maven-surefire-plugin</artifactId>
-         <version>2.22.2</version>
-         <configuration>
-              <includes>
-                 <include>**/*Test.java</include>
-                 </includes>
-         </configuration>
-         </plugin>
-        </plugins>
-  </build>
-  
-  <dependencies>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>Java_Selenium</groupId>
+	<artifactId>Java_Selenium</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>Java_Selenium</name>
+	<build>
+		<sourceDirectory>src</sourceDirectory>
+		<plugins>
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.1</version>
+				<configuration>
+					<release>21</release>
+				</configuration>
+			</plugin>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.22.2</version>
+				<configuration>
+					<includes>
+						<include>**/*Test.java</include>
+					</includes>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+	<dependencies>
 		<!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
 			<version>2.13.0</version>
 		</dependency>
-		
+
+		<dependency>
+			<groupId>com.aventstack</groupId>
+			<artifactId>extentreports</artifactId>
+			<version>3.1.5</version>
+		</dependency>
+
 
 		<!--https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
@@ -59,30 +67,30 @@
 			<version>5.9.2</version>
 		</dependency>
 
-	<dependency>
-        <groupId>org.seleniumhq.selenium</groupId>
-        <artifactId>selenium-chrome-driver</artifactId>
-        <version>4.27.0</version>
-    </dependency>
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-chrome-driver</artifactId>
+			<version>4.27.0</version>
+		</dependency>
 
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-server</artifactId>
 			<version>4.0.0-alpha-2</version>
 		</dependency>
- 
+
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
 			<version>5.1.0</version>
 		</dependency>
- 
+
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml</artifactId>
 			<version>5.1.0</version>
 		</dependency>
- 
+
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml-schemas</artifactId>
@@ -102,7 +110,7 @@ https://mvnrepository.com/artifact/org.apache.commons/commons-collections4 -->
 			<artifactId>commons-collections4</artifactId>
 			<version>4.4</version>
 		</dependency>
- 
+
 		<dependency>
 			<groupId>org.apache.maven.plugins</groupId>
 			<artifactId>maven-compiler-plugin</artifactId>
@@ -117,9 +125,9 @@ https://mvnrepository.com/artifact/org.apache.commons/commons-collections4 -->
 
 
 		<dependency>
-		<groupId>com.sun.mail</groupId>
-		<artifactId>javax.mail</artifactId>
-		<version>1.6.2</version>
+			<groupId>com.sun.mail</groupId>
+			<artifactId>javax.mail</artifactId>
+			<version>1.6.2</version>
 		</dependency>
 
 
@@ -133,31 +141,31 @@ https://mvnrepository.com/artifact/org.apache.commons/commons-collections4 -->
 			<artifactId>google-oauth-client-jetty</artifactId>
 			<version>1.32.1</version>
 		</dependency>
-<dependency>
-    <groupId>com.google.apis</groupId>
-    <artifactId>google-api-services-gmail</artifactId>
-    <version>v1-rev20211108-1.32.1</version>
-</dependency>
+		<dependency>
+			<groupId>com.google.apis</groupId>
+			<artifactId>google-api-services-gmail</artifactId>
+			<version>v1-rev20211108-1.32.1</version>
+		</dependency>
 
-<dependency>
-    <groupId>com.google.api-client</groupId>
-    <artifactId>google-api-client-jackson2</artifactId>
-    <version>1.28.1</version>
-</dependency>
+		<dependency>
+			<groupId>com.google.api-client</groupId>
+			<artifactId>google-api-client-jackson2</artifactId>
+			<version>1.28.1</version>
+		</dependency>
 
-	
-   <dependency>
-     <groupId>org.testng</groupId>
-     <artifactId>testng</artifactId>
-     <version>7.0.0</version>
-   </dependency>
 
-   <dependency>
-  <groupId>com.googlecode.java-diff-utils</groupId>
-  <artifactId>diffutils</artifactId>
-  <version>1.3.0</version>
-</dependency>
- 
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>7.0.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.googlecode.java-diff-utils</groupId>
+			<artifactId>diffutils</artifactId>
+			<version>1.3.0</version>
+		</dependency>
+
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-api</artifactId>
@@ -175,19 +183,19 @@ https://mvnrepository.com/artifact/org.apache.commons/commons-collections4 -->
 			<scope>test</scope>
 		</dependency>
 
-<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
-<dependency>
-    <groupId>org.slf4j</groupId>
-    <artifactId>slf4j-api</artifactId>
-    <version>2.0.16</version>
-</dependency>
+		<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>2.0.16</version>
+		</dependency>
 
- </dependencies>
-  
-  <modules>
-  	<module>EcommerceSite_Automation</module>
-  	<module>EcommerceSite</module>
-  	<module>EcommerceSite-Automation</module>
-  	<module>Java_Selenium-Ecommerce-site</module>
-  </modules>
+	</dependencies>
+
+	<modules>
+		<module>EcommerceSite_Automation</module>
+		<module>EcommerceSite</module>
+		<module>EcommerceSite-Automation</module>
+		<module>Java_Selenium-Ecommerce-site</module>
+	</modules>
 </project>
