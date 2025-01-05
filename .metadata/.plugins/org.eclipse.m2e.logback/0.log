@@ -1880,3 +1880,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.apache.lo
 2025-01-01 20:56:19,918 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@3042c686{STARTING}[12.0.6,sto=0] @408138ms
 2025-01-01 22:48:08,327 [Worker-67: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: Java_Selenium:Java_Selenium:0.0.1-SNAPSHOT @ C:\Automation\Java_Selenium\pom.xml.
 2025-01-01 22:51:44,378 [Worker-72: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: Java_Selenium:Java_Selenium:0.0.1-SNAPSHOT @ C:\Automation\Java_Selenium\pom.xml.
+2025-01-01 22:54:00,730 [Worker-73: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: Java_Selenium:Java_Selenium:0.0.1-SNAPSHOT @ C:\Automation\Java_Selenium\pom.xml.

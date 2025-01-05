@@ -19,7 +19,7 @@ public class googlesearchpage {
         return element;
     }
 
-    public static WebElement search(WebDriver driver){
+    public static WebElement search(WebDriver driver) {
         element = driver.findElement(By.xpath("(//div[@class='aFn4tc NNMgCf DZm15c'])[2]"));
         return element;
     }
