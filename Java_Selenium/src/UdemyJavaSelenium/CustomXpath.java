@@ -1,5 +1,4 @@
 package UdemyJavaSelenium;
-
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import Utility.basepackage;

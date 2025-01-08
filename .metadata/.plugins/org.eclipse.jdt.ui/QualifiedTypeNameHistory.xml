@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
-    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="POMProject.googlepages.googlesearchpage"/>
+    <fullyQualifiedTypeName name="POMProject.ExtenctTestReport.Extenctreport1"/>
 </qualifiedTypeNameHistroy>

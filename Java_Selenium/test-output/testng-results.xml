@@ -2,24 +2,48 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-01T22:08:00 IST" name="Default suite" finished-at="2025-01-01T22:08:06 IST" duration-ms="6057">
+  <suite started-at="2025-01-07T12:35:49 IST" name="Default suite" finished-at="2025-01-07T12:35:49 IST" duration-ms="86">
     <groups>
     </groups>
-    <test started-at="2025-01-01T22:08:00 IST" name="Default test" finished-at="2025-01-01T22:08:06 IST" duration-ms="6057">
-      <class name="POMProject.testcases.NavigationwithTestNg">
-        <test-method is-config="true" signature="setupdriver()[pri:0, instance:POMProject.testcases.NavigationwithTestNg@73a1e9a9]" started-at="2025-01-01T22:08:00 IST" name="setupdriver" finished-at="2025-01-01T22:08:02 IST" duration-ms="2213" status="PASS">
+    <test started-at="2025-01-07T12:35:49 IST" name="Default test" finished-at="2025-01-07T12:35:49 IST" duration-ms="86">
+      <class name="UdemyJavaSelenium.TestNgPractice">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="beforeSuite" finished-at="2025-01-07T12:35:49 IST" duration-ms="21" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setupdriver -->
-        <test-method signature="googlesearch()[pri:0, instance:POMProject.testcases.NavigationwithTestNg@73a1e9a9]" started-at="2025-01-01T22:08:02 IST" name="googlesearch" finished-at="2025-01-01T22:08:05 IST" duration-ms="3435" status="PASS">
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="beforeTest" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- googlesearch -->
-        <test-method is-config="true" signature="closebrowser()[pri:0, instance:POMProject.testcases.NavigationwithTestNg@73a1e9a9]" started-at="2025-01-01T22:08:05 IST" name="closebrowser" finished-at="2025-01-01T22:08:06 IST" duration-ms="362" status="PASS">
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="beforeClass" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- closebrowser -->
-      </class> <!-- POMProject.testcases.NavigationwithTestNg -->
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="beforeMethod" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test1()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="test1" finished-at="2025-01-07T12:35:49 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="afterMethod" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="afterClass" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="afterTest" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="afterSuite" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- UdemyJavaSelenium.TestNgPractice -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
