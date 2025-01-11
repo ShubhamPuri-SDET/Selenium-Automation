@@ -22,7 +22,7 @@ public class NavigateToUrl {
         googlesearchpage.searchbar(driver).sendKeys(Keys.RETURN);
         googlesearchpage.search(driver).click();
 try {
-    Capturescreenshot.capture(driver);
+    Capturescreenshot.capture(driver, "google_search_result");
 } catch (Exception e) {
     System.out.println("Error capturing screenshot: " + e.getMessage());
 }        // driver.findElement(By.name("btnk")).sendKeys(Keys.RETURN);
