@@ -1,45 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-07T12:35:49 IST" name="Default suite" finished-at="2025-01-07T12:35:49 IST" duration-ms="86">
+  <suite started-at="2025-01-09T22:43:28 IST" name="Default suite" finished-at="2025-01-09T22:43:28 IST" duration-ms="36">
     <groups>
     </groups>
-    <test started-at="2025-01-07T12:35:49 IST" name="Default test" finished-at="2025-01-07T12:35:49 IST" duration-ms="86">
+    <test started-at="2025-01-09T22:43:28 IST" name="Default test" finished-at="2025-01-09T22:43:28 IST" duration-ms="36">
       <class name="UdemyJavaSelenium.TestNgPractice">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="beforeSuite" finished-at="2025-01-07T12:35:49 IST" duration-ms="21" status="PASS">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5b7a5baa]" started-at="2025-01-09T22:43:28 IST" name="beforeSuite" finished-at="2025-01-09T22:43:28 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="beforeTest" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5b7a5baa]" started-at="2025-01-09T22:43:28 IST" name="beforeTest" finished-at="2025-01-09T22:43:28 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="beforeClass" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5b7a5baa]" started-at="2025-01-09T22:43:28 IST" name="beforeClass" finished-at="2025-01-09T22:43:28 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="beforeMethod" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5b7a5baa]" started-at="2025-01-09T22:43:28 IST" name="beforeMethod" finished-at="2025-01-09T22:43:28 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test1()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="test1" finished-at="2025-01-07T12:35:49 IST" duration-ms="12" status="PASS">
+        <test-method signature="test1()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5b7a5baa]" started-at="2025-01-09T22:43:28 IST" name="test1" finished-at="2025-01-09T22:43:28 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="afterMethod" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5b7a5baa]" started-at="2025-01-09T22:43:28 IST" name="afterMethod" finished-at="2025-01-09T22:43:28 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="afterClass" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
+        <test-method signature="test2()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5b7a5baa]" started-at="2025-01-09T22:43:28 IST" name="test2" finished-at="2025-01-09T22:43:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5b7a5baa]" started-at="2025-01-09T22:43:28 IST" name="beforeMethod" finished-at="2025-01-09T22:43:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5b7a5baa]" started-at="2025-01-09T22:43:28 IST" name="afterMethod" finished-at="2025-01-09T22:43:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5b7a5baa]" started-at="2025-01-09T22:43:28 IST" name="afterClass" finished-at="2025-01-09T22:43:28 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="afterTest" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5b7a5baa]" started-at="2025-01-09T22:43:28 IST" name="afterTest" finished-at="2025-01-09T22:43:28 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5bf0d49]" started-at="2025-01-07T12:35:49 IST" name="afterSuite" finished-at="2025-01-07T12:35:49 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:UdemyJavaSelenium.TestNgPractice@5b7a5baa]" started-at="2025-01-09T22:43:28 IST" name="afterSuite" finished-at="2025-01-09T22:43:28 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->

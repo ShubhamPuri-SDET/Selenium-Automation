@@ -17,7 +17,7 @@ public class Capturescreenshot {
         capture(driver);
     }
     
-    public static void capture (WebDriver driver){
+    public static void capture (WebDriver driver, String string){
         driver.get("https://www.google.com/");
         try {
             // Capture screenshot
