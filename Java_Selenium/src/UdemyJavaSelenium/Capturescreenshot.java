@@ -17,15 +17,16 @@ public class Capturescreenshot {
         capture(driver);
     }
     
-    public static void capture (WebDriver driver, String string){
+    public static void capture (WebDriver driver){
         driver.get("https://www.google.com/");
         try {
             // Capture screenshot
             File screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-            FileUtils.copyFile(screenshot, new File("C:\\Automation\\Java_Selenium\\src\\POMProject\\screenshot.png"));
+            FileUtils.copyFile(screenshot, new File("C:\\Automation\\CapturedScreenshot\\screenshot.png"));
             System.out.println("Screenshot captured.");
         } catch (Exception e) {
             System.out.println("Failed to capture screenshot: " + e.getMessage());
         }
+        driver.quit();
     }
 }
