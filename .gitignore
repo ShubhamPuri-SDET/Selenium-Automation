@@ -1,1 +1,5 @@
 /.metadata/
+.gitignore
+Java_Selenium/.classpath
+Java_Selenium/src/UdemyJavaSelenium/Calendar.java
+bin/.classpath

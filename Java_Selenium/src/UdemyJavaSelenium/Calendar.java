@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
 public class Calendar {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.hyrtutorials.com/p/calendar-practice.html");
         driver.manage().window().maximize();
