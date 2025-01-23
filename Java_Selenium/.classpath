@@ -17,8 +17,8 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/shubham.puri/apache-maven-3.9.6-bin (2).zip"/>
-	<classpathentry kind="lib" path="C:/selenium"/>
+	<classpathentry kind="lib" path="C:\apache-maven-3.9.9"/>
+	<classpathentry kind="lib" path="C:\Selenium\selenium-java-4.28.0"/>
 	<classpathentry kind="src" path=".apt_generated">
 		<attributes>
 			<attribute name="optional" value="true"/>
