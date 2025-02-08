@@ -17,18 +17,30 @@ public class Assignment2 {
 
         WebDriver driver = new ChromeDriver();
 
-        try {
-            driver.get("http://magento-demo.lexiconn.com/");
-            driver.manage().window().maximize();
+        // try {
+        driver.get("http://magento-demo.lexiconn.com/");
+        // driver.manage().window().maximize();
 
-            List<WebElement> footerLinks = driver.findElements(By.xpath("//div[@class='footer']//a"));
-            for (WebElement link : footerLinks) {
-                System.out.println("Text of Link: " + link.getText());
-                System.out.println("Link URLs: " + link.getAttribute("href"));
-            }
-        } catch (Exception e) {
-        } finally {
-            driver.quit();
+        // List<WebElement> footerLinks =
+        // driver.findElements(By.xpath("//div[@class='footer']//a"));
+        // for (WebElement link : footerLinks) {
+        // System.out.println("Text of Link: " + link.getText());
+        // System.out.println("Link URLs: " + link.getAttribute("href"));
+        // }
+        // } catch (Exception e) {
+        // } finally {
+        // driver.quit();
+        // }
+
+        List<WebElement> links = driver.findElements(By.tagName("a"));
+
+        System.out.println(links.size());
+
+        for (int i = 0; i < links.size(); i++) {
+            String textLink = links.get(i).getText();
+            String href = links.get(i).getAttribute("href");
+            System.out.println("text of the URLs" + " - " + textLink);
+            System.out.println("Text Links" + " - " + href);
         }
     }
 }

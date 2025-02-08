@@ -1,4 +1,4 @@
-package MediaAutomation;
+package AutomationAssignments;
 
 import java.io.BufferedWriter;
 import java.io.FileInputStream;

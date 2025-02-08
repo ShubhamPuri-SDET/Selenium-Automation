@@ -1,4 +1,5 @@
 package Practice;
+
 import java.time.Duration;
 
 import org.openqa.selenium.By;
@@ -10,11 +11,10 @@ public class Form_Method {
 
     public static void main(String[] args) {
 
-        
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
 
-       driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
         driver.get("https://www.techlistic.com/p/selenium-practice-form.html");
 
         driver.findElement(By.xpath(
@@ -42,5 +42,6 @@ public class Form_Method {
 
         // Click Submit
         driver.findElement(By.id("submit")).click();
+        driver.close();
     }
 }

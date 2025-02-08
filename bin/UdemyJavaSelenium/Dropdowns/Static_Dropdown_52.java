@@ -13,10 +13,10 @@ import Utility.basepackage;
 public class Static_Dropdown_52 extends basepackage {
 
     public static void main(String[] args) {
-        //String url = "https://rahulshettyacademy.com/dropdownsPractise/";
+        String url = "https://rahulshettyacademy.com/dropdownsPractise/";
         driver = new ChromeDriver(); // This will launch the chrome browser
         driver.manage().window().maximize();// This will maximize the browser window
-        driver.get(weburl);
+        driver.get(url);
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         WebElement staticdropdown = wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("ctl00_mainContent_DropDownListCurrency")));
        // WebElement staticdropdown = driver.findElement(By.id("ctl00$mainContent$DropDownListCurrency"));
