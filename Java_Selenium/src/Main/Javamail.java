@@ -1,4 +1,4 @@
-package AutomationAssignments;
+package Main;
 
 import java.io.BufferedWriter;
 import java.io.FileInputStream;

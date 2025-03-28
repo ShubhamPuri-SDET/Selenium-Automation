@@ -16,8 +16,8 @@ public class Capturescreenshot {
         WebDriver driver = new ChromeDriver();
         capture(driver);
     }
-    
-    public static void capture (WebDriver driver){
+
+    public static void capture(WebDriver driver) {
         driver.get("https://www.google.com/");
         try {
             // Capture screenshot
@@ -28,5 +28,6 @@ public class Capturescreenshot {
             System.out.println("Failed to capture screenshot: " + e.getMessage());
         }
         driver.quit();
+
     }
 }

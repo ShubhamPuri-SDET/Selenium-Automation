@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+>>>>>>> 1209090 (Added code for Email Automation - 1) Content test 2) Text link URLs Validation)
 		<attributes>
 			<attribute name="module" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
@@ -14,11 +18,20 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
+<<<<<<< HEAD
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:\apache-maven-3.9.9"/>
 	<classpathentry kind="lib" path="C:\Selenium\selenium-java-4.28.0"/>
+=======
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/apache-maven-3.9.9"/>
+	<classpathentry kind="lib" path="C:/Selenium/selenium-java-4.28.0"/>
+>>>>>>> 1209090 (Added code for Email Automation - 1) Content test 2) Text link URLs Validation)
 	<classpathentry kind="src" path=".apt_generated">
 		<attributes>
 			<attribute name="optional" value="true"/>
@@ -37,6 +50,14 @@
 			<attribute name="optional" value="true"/>
 		</attributes>
 	</classpathentry>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+=======
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+>>>>>>> 1209090 (Added code for Email Automation - 1) Content test 2) Text link URLs Validation)
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

@@ -1,6 +1,17 @@
 {
-    "java.compile.nullAnalysis.mode": "disabled",
+    "java.compile.nullAnalysis.mode": "automatic",
     "java.configuration.updateBuildConfiguration": "automatic",
     "java.debug.settings.onBuildFailureProceed": true
     
 }
+
+// {
+//     "java.project.sourcePaths": [
+//         // "Java_Selenium"
+//         "Automation/Java_Selenium/"
+//     ],
+//     "java.project.outputPath": "bin",
+//     "java.compile.nullAnalysis.mode": "automatic",
+//     "java.configuration.updateBuildConfiguration": "automatic",
+//     "java.debug.settings.onBuildFailureProceed": true
+// }
