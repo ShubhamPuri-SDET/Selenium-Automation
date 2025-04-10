@@ -141,10 +141,3 @@ if __name__ == "__main__":
 
     # Compare the texts and print the highlighted results
     compare_texts_and_highlight(pdf_text, email_text)
-
-
-# https://m.e.genentech.com/nl/jsp/m.jsp?c=%40AVgtZu9Z9RpqKZTcvGdRMRV%2FwszAn5ClQcrBl5QriZk%3D
-# C:\Users\shubham.puri\Desktop\TestWeb\ENSPRYNG.pdf
-# Itovebi
-
-# C:\Users\shubham.puri\Desktop\TestWeb\Itovebi.pdf
