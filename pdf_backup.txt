@@ -1,0 +1,271 @@
+SUBMISSION NOTE: This represents a 3rd Party email communication. 
+HEADER AREA: This area is reserved for the: From, To, and customized headers for any 3rd Party vendor that will deploy this email. 
+Note: Not all 3rd Party vendors may use a header. 
+3rd PARTY FOOTER AREA: This area is reserved for a 3rd Party vendor footer which includes the vendor's opt-out language and 
+link. 
+3rd PARTY FOOTER AREA: This area is reserved for a 3rd Party vendor footer which includes the vendor's opt-out language and link.ImportantupdateforaGenentechproduct
+Important Update inHR-Positive, HER2-Negative,
+Locally Advanced orMetastatic Breast
+Treatmentrecommendation
+NCCNClinicalPracticeGuidelinesinOncology
+(NCCNGuidelines®) forBreastCancerrecommend
+inavolisib
+Category
+HR+/HER2-
+adiuvantendocrine orrelapse
+monthsofcompletingadjuvantendocrine
+diseasewithnovisceralcrisisinpatientswhoarepostmenopausal orpremenopausaltreatedwithovarian
+Wal
+(inavolisib),incombination withpalbociclibandfulvestrant,isindicatedfor
+thetreatmentofadultswithendocrine-resistant, hormone(HR)-
+positive,humanepidermalgrowth-factor receptor2(HER2)-negative, locally
+advancedormetastaticbreastcancer,asdetectedbyanFDA-approved test,
+followingrecurrenceonoraftercompletingadjuvantendocrinetherapy.
+ImportantSafetyInformation
+WarningsandPrecautions
+ltovebihaswarningsandprecautionsforhyperglycemia, stomatitis,diarrhea,and
+embryo-fetal toxicity.
+PleaseseeadditionalImportantSafetyInformation below.
+TheFIRSTandONLYregimenwith ImportantSafety
+mPFSvspalbociclib andfulvestrant, basedInformation
+ontheINAVO120
+Warningsand
+Precautions
+haswarningsand
+precautionsfor
+hyperglycemia,
+stomatitis,diarrhea,and
+embryo-fetal toxicity.
+Hyperglycemia
+Severehyperglycemia
+canoccurinpatients
+treatedwith
+Increasedfasting
+glucoseoccurredin85%
+ofpatientstreatedwith
+including22%of
+natientswithGrade
+(FPG>160to250
+mg/dL),12%withGrade
+3(FPG>250to500
+mg/dL),and0.6%with
+Grade4(FPG>500
+mg/dL)events.
+InINAVO120,46%
+(74/162)ofpatientswho
+received were
+treatedwithoralanti-
+hyperglycemic
+medicationsand7%
+(11/162)weretreated
+withinsulintomanage
+increasedfasting
+glucose.Inpatientswho
+increased
+fastingglucoseof>160
+mg/dL,96%(52/54)had
+animprovement in
+fastingglucoseofat
+leastonegradelevel
+withatimeto
+improvement fromthe
+firsteventof8days
+(range:2to43days).
+Amongpatientswith
+hyperglycemia, the
+mediantimetofirstonset
+wasdays(range:2to
+955days).
+Hyperglycemia ledto
+doseinterruntionin28%.
+todosereductionin
+2.5%,andto
+discontinuation of
+in1.2%ofpatients.
+Thesafetyofin
+patientswithType1
+diabetesmellitus.or
+Type2diabetesmellitus
+requiringongoinganti-
+hyperglycemic treatment
+havenotbeenstudied.
+Beforeinitiating
+treatmentwith
+testfastingglucose
+levels(FPGorFBG),
+levels,and
+optimizefastingglucose.
+ImportantSafety
+Information
+continued below.
+AfterinitiatingtreatmentwithItovebiorinpatientswhoexperiencehyperglycemia
+afterinitiatingtreatmentwithmonitororself-monitorfastingglucoselevels
+onceevery3daysforthefirstweek(Day1to7),thenonceeveryweekforthenext
+3weeks(Day8to28),thenonceevery2weeksforthenext8weeks,thenonce
+every4weeksthereafter,andasclinicallyindicated.Monitor every3months
+andasclinicallyindicated.
+Managehyperglycemia withanti-hyperglycemic medicationsasclinicallyindicated.
+Duringtreatmentwithanti-hyperglycemic medication,continuemonitoringfasting
+glucoselevels.Patientswithahistoryofwell-controlled Type2diabetesmellitusmay
+requireintensifiedanti-hyperglycemic treatmentandclosemonitoringoffasting
+glucoselevels.
+Considerconsultationwithahealthcareprofessional experienced inthetreatmentof
+hyperglycemia, andinitiationoffastingglucosemonitoringathomeforpatientswho
+haveriskfactorsforhyperglycemia orwhoexperiencehyperglycemia. Advise
+patientsofthesignsandsymptomsofhyperglycemia andcounselpatientson
+lifestylechanges.
+Basedontheseverityofthehyperglycemia, mayrequiredoseinterruption,
+reduction,ordiscontinuation.
+Stomatitis
+Severestomatitiscanoccurinpatientstreatedwith
+Stomatitisoccurredin51%ofpatientstreatedwithItovebiincombination with
+palbociclibandfulvestrant,includingGrade3eventsin6%ofpatients.Themedian
+timetofirstonsetwas13days(range:1to610days).Stomatitisledtointerruption
+ofItovebiin10%,todosereductionin3.7%,andtodiscontinuation ofin0.6%
+ofpatients.
+InpatientswhoreceivedItovebiincombination withpalbociclibandfulvestrant,38%
+usedamouthwashcontainingcorticosteroid formanagement orprophylaxisof
+stomatitis.
+Monitorpatientsforsignsandsymptomsofstomatitis.Withhold,reducedose,or
+permanently discontinue basedonseverity.
+Diarrhea
+Severediarrhea,includingdehydrationandacutekidneyinjury,canoccurinpatients
+treatedwith
+Diarrheaoccurredin48%ofpatientstreatedwithincombinationwith
+palbociclibandfulvestrant;includingGrade3eventsin3.7%ofpatients.Themedian
+timetofirstonsetwas15days(range:2to602days).Anti-diarrheal medicineswere
+usedin28%(46/162)ofpatientswhoreceivedItovebiincombination with
+palbociclibandfulvestranttomanagesymptoms.Doseinterruptions wererequiredin
+7%ofpatients,anddosereductionsoccurredin1.2%.
+Monitorpatientsforsignsandsymptomsofdiarrhea.Advisepatientstoincreaseoral
+fluidsandstartanti-diarrheal treatmentatthefirstsignofdiarrheawhiletaking
+Withhold,reducedose,orpermanently discontinue basedon
+severity.
+Embryo-Fetal Toxicity
+Basedonfindingsinanimalsanditsmechanismofaction, cancausefetal
+harmwhenadministered toapregnantwoman.Inananimalreproduction study,oral
+administration ofinavolisibtopregnantratsduringtheperiodoforganogenesis
+causedadversedevelopmental outcomes,includingembryo-fetal mortality,structural
+abnormalities, andalterationstogrowthatmaternalexposuresapproximately
+equivalenttothehumanexposureattherecommended doseof9mg/daybasedon
+areaunderthecurve(AUC).
+Advisepregnantwomenandfemalesofreproductive potentialofthepotentialriskto
+afetus.Advisefemalesofreproductive potentialtouseeffectivenon-hormonal
+contraception duringtreatmentwithandfor1weekafterthelastdose.Advise
+malepatientswithfemalepartnersofreproductive potentialtouseeffective
+contraception duringtreatmentwithItovebiandfor1weekafterthelastdose.
+MostCommonAdverseReactions
+Themostcommon(220%)adversereactions,includinglaboratoryabnormalities,
+weredecreasedneutrophils,decreasedhemoglobin, increasedfastingglucose,
+decreasedplatelets,decreasedlymphocytes, stomatitis, decreased
+calcium,fatigue,decreasedpotassium,increasedcreatinine,increasedALT,nausea,
+decreasedsodium,decreasedmagnesium, rash,decreasedappetite,COVID-19
+infection,andheadache.
+YoumayreportsideeffectstotheFDAat1-800-FDA-1088 or
+www.fda.gov/medwatch. YoumayalsoreportsideeffectstoGenentechat
+leaseseethefullPrescribing Information foradditionalImportantSafety
+Information.
+line;ALT=alanineaminotransferase; DOR=durationofresponse;FDA=USFoodandDrug
+stration;HR=hazardratio; breastcancer;mPFS=medianprogression-free
+responserate;OS=overall
+osito
+Prescribinginformation.Genentech,Inc.;2025.
+ReferencedwithpermissionfromtheNCCNClinicalPracticeGuidelinesinOncology(NCCN
+Guidelines®)forBreastCancerV.1.2025.©NationalComprehensive CancerNetwork,Inc.2025
+Allrightsreserved.AccessedFebruary19,2025.Toviewthemostrecentandcompleteversion
+oftheguideline,goonlinetowww.NCCN.org.
+3.JnaveriKL,ImS-A,SauraC,etal.Inavolisiborplaceboincombinationwithpalbocicliband
+fulvestrantinpatientswithPIK3CA-mutated, hormonereceptor-positive, HER2-negative locally
+advancedormetastaticbreastcancer:phaseIIIINAVO120primary
+AntonioBreastCancerSymposium;December5-9,2023;SanAntonio,
+Genentech
+AMembe
+ContactUsPrivacyPolicyTermsandConditionsUnsubscribe
+ThiscommercialemailisbroughttoyoubyGenentech.
+emailisintendedforUShealthcareprofessionalsonly
+anditslogoaretrademarksofGenentech,In
+©2025GenentechUSA,Inc.Allrightsreserved.
+GenentechUSA,Inc.1DNAWaySouthSanFrancisco,CA94080-4990Viewinbrowse!
+PrescribingInformation
+ImportantSafetyInformation
+NCCN
+CATEGORY 1
+TREATMENT OPTION
+anv
+Indicationy1treatme
+rantiesofanykindwhatsoeverregardingtheircontent,use,orapplication,anddisclaims
+heirapplicationoruseinanyway.SeetheNCCNGuidelines®fordetailed+palbociclibandfulvestrantas
+optionfor
+diseaseprogressionon
+within
+TL
+ted.2NOONGuidelines useInanvwav.
+Studydesign:INAVO120wasaphase3,
+randomized, double-blind, placebo-controlled study,
+evaluatingtheefficacyandsafetyofin
+combination withpalbociclibandfulvestrantinadult
+patientswithPIK3CA-mutated, HR+/HER2- mBC
+whosediseaseprogressedduringorwithin12months
+ofcompletingadjuvantendocrinetherapyandwho
+havenotreceivedpriorsystemictherapyforlocally
+advancedormetastaticdisease.Theprimaryendpoint
+wasPFSbyinvestigatorassessment. Secondary
+endpointsincludedOS,investigatorassessedORR
+and
+Progression-free
+months7.3mPFS
+21.3monthmedianfollow-up
+version
+oninvestigatorassessment
+Permanent discontinuation ratedue
+toanyadversereactionswaslow
+theItovebi
+Mostadversereactionsweremildto
+moderate(grade1-2)inthe armof
+|
+Themostcommon(220%)adversereactions,
+includinglaboratoryabnormalities, aredecreased
+neutrophils(95%),decreasedhemoglobin(88%),
+increasedglucose(85%),decreasedplatelets
+(84%),decreasedlymphocytes (72%),stomatitis
+(51%),diarrhea(48%),decreasedcalcium(42%),
+fatigue(38%),decreasedpotassium(38%),
+increasedcreatinine(38%),increasedALT(34%),
+nausea(28%),decreasedsodium(28%),decreased
+magnesium(27%),rash(26%),decreasedalbumin
+),decreasedappetite(24%),COVID-19(23%),
+eadache(22%)
+NationalComprehensiveCancerNetwork®
+(NCCN®)testingrecommendation
+NCCNGuidelines®forBreastCancer
+recommendtestingforPIK3CAmutationsat
+mBCdiagnosistoinformeligibilityfor
+pies
+makesnowarrantiesofanvkindwhatsoeverre
+ent,use,or
+icationorusein
+comme
+PleaseseethefullPrescribing Information for
+additionalImportantSafetyInformation.
+ImportantSafetyInformation (cont)
+WarningsandPrecautions (cont)
+Hyperglycemia (cont)Reduction
+(95%0.32-0.59)P<0.0001
++andfulvestrant15monthsmPFS
+TBased
+and
+mBCdiagnosistoinform
+therapiesincludingthe
+regimenin1LHR+/HER2inform
+Seethe
+Learnmoreatisib
+fordetailedibility
+inavoli
+mE
+ardingtheir
+catalyticsubunitaloha; Evaluation
+analysis.Presentedat:SanORR=object
+PIK3CA=phosphatidylin
+CriteriainSolidTum
+References:5-bisohosphate
+ofthe

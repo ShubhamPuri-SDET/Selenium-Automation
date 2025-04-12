@@ -68,11 +68,25 @@
 			</dependency>
 
 		<dependency>
+<<<<<<< HEAD
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-chrome-driver</artifactId>
 			<version>4.27.0</version>
 		</dependency>
 
+=======
+			<groupId>io.github.bonigarcia</groupId>
+			<artifactId>webdrivermanager</artifactId>
+			<version>5.9.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.seleniumhq.selenium</groupId>
+			<artifactId>selenium-chrome-driver</artifactId>
+			<version>4.27.0</version>
+		</dependency>
+
+>>>>>>> 1209090 (Added code for Email Automation - 1) Content test 2) Text link URLs Validation)
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-edge-driver -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
@@ -197,7 +211,11 @@ https://mvnrepository.com/artifact/org.apache.commons/commons-collections4 -->
 			<artifactId>slf4j-api</artifactId>
 			<version>2.0.16</version>
 		</dependency>
+<<<<<<< HEAD
 		
+=======
+
+>>>>>>> 1209090 (Added code for Email Automation - 1) Content test 2) Text link URLs Validation)
 	</dependencies>
 
 	<modules>

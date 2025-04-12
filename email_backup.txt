@@ -1,0 +1,201 @@
+ENSPRYNG (satralizumab-mwge)
+Learn more about this treatment option
+View in browser
+Prescribing Information
+Important Safety Information
+Life with NMOSD is unpredictable
+1-4
+ENSPRYNG helps by reducing the risk of relapse in adults with AQP4-IgG(+) NMOSD, whether they were treatment naïve or previously treated.
+ENSPRYNG is the first and only FDA-approved anti-IL-6 receptor monoclonal antibody for AQP4-IgG(+) NMOSD
+1,5
+Unlike other treatments, ENSPRYNG blocks the IL-6 receptor, allowing for modulation of the immune system to address key drivers of NMOSD.
+1,6,7
+*
+*
+The precise mechanism by which ENSPRYNG exerts therapeutic effects in NMOSD is unknown.
+IL-6 levels are elevated
+in NMOSD and may be indicative of relapse—during a 2-year follow-up, higher baseline IL-6 levels correlated with risk of clinical relapse and their severity.
+8
+By targeting IL-6 signaling, ENSPRYNG is thought to
+help decrease inflammation
+, BBB permeability, and astrocyte injury—all key drivers of AQP4-IgG(+) NMOSD.
+1,3,9
+*
+WATCH MOA VIDEO
+ENSPRYNG has a well-studied safety profile with a median exposure of 5 years
+10†
+The rates of serious AEs were similar between ENSPRYNG and placebo in two phase 3 clinical trials
+3,4,11‡
+†
+Median ENSPRYNG exposure of 5 years in SAkuraMoon. SAkuraMoon is a single-arm, open-label study that enrolled patients who had completed the double-blind periods and open-label extensions of SAkuraStar and SAkuraSky.
+10
+‡
+The safety population included patients who received at least 1 dose of ENSPRYNG or placebo and included AQP4-seropositive and AQP4-seronegative patients.
+3,4
+VIEW SAFETY DATA
+Get your patients started today!
+•
+~75% of commercial patients nationwide have unrestricted first-line coverage for
+ENSPRYNG–no
+need for patients to fail other therapies
+12§
+•
+Beyond routine vaccinations,
+¶
+no additional vaccines are required before starting ENSPRYNG. After proper training by a healthcare provider, patients can start self-administering ENSPRYNG at home or on the go
+1
+§
+Because drug coverage policies can change, please check with the health plan directly to confirm coverage for individual patients. Coverage policies current as of November 2024.
+¶
+According to immunization guidelines, all immunizations should be administered at least 4 weeks prior to initiation of ENSPRYNG for live or live-attenuated vaccines and, wherever possible, at least 2 weeks prior for non-live vaccines.
+1
+Embrace the ordinary with ENSPRYNG
+CONNECT WITH A REP
+AEs=adverse events; AQP4=aquaporin-4; BBB=blood-brain barrier; FDA=Food and Drug Administration; IgG=immunoglobulin G;
+IL-6=interleukin-6
+; MOA=mechanism of action;
+NMOSD=neuromyelitis optica spectrum disorder.
+These data are for informational purposes only. Checking individual patients’ coverage is the responsibility of the patient and your office. The completion and submission of coverage- or reimbursement-related documentation are the responsibility of the patient and healthcare provider. Genentech makes no representation or guarantee concerning reimbursement, coverage, or co-pay for any service or item.
+The completion and submission of coverage- or reimbursement-related documentation are the responsibility of the patient and healthcare provider. Genentech makes no representation or guarantee concerning coverage or reimbursement for any service or item.
+Genentech provides coverage and reimbursement services to patients to help them understand benefits, coverage, and reimbursement. Genentech provides these services to patients only after a healthcare provider has prescribed a Genentech product.
+References: 1.
+ENSPRYNG [prescribing information]. South San Francisco, CA: Genentech, Inc. 2022.
+2.
+Wingerchuk DM, Hogancamp WF, O’Brien PC, Weinshenker BG. The clinical course of neuromyelitis optica (Devic’s syndrome).
+Neurology
+. 1999;53(5):1107-1118.
+3.
+Traboulsee A, Greenberg BM, Bennett JL, et al. Safety and efficacy of satralizumab monotherapy in neuromyelitis optica spectrum disorder: a randomized, double-blind, multicentre, placebo-controlled phase 3 trial.
+Lancet Neurol
+. 2020;19(5):402-412.
+4.
+Yamamura T, Kleiter I, Fujihara K, et al. Trial of satralizumab in neuromyelitis optica spectrum disorder.
+N Engl J Med
+. 2019;381(22):2114-2124.
+5.
+FDA approves Roche’s ENSPRYNG for neuromyelitis optica spectrum disorder. Press release. Genentech; August 14, 2020.
+6.
+Anderson M, Levy M. Advances in the long-term treatment of neuromyelitis optica spectrum disorder.
+J Cent Nerv Syst Dis
+. 2024;16:1-11.
+7.
+Sellner J, Sitte HH, Rommer PS. Targeting interleukin-6 to treat neuromyelitis optica spectrum disorders: implications from immunology, the FcRn pathway and clinical experience.
+Drug Discov Today
+. 2021;26(7):1591-1601.
+8.
+Barros PO, Cassano T, Hygino J, et al. Prediction of disease severity in neuromyelitis optica by the levels of interleukin (IL)-6 produced during remission phase.
+Clin Exp Immunol
+. 2016;183(3):480-489.
+9.
+Heo Y-A. Satralizumab: first approval.
+Drugs
+. 2020;80(14):1477-1482.
+10.
+Weinshenker B, Yeaman MR, de Seze J, et al. Long-term safety of satralizumab in adults with aquaporin-4-lgG-seropositive (AQP4-lgG+) neuromyelitis optica spectrum disorder (NMOSD). Presented at: the 75th Annual Meeting of the American Academy of Neurology; April 22-27, 2023; Boston, MA.
+11.
+Yamamura T, Weinshenker B, Yeaman MR, et al. Long-term safety of satralizumab in neuromyelitis optica spectrum disorder (NMOSD) from SAkuraSky and SAkuraStar.
+Mult Scler Relat Disord
+. 2022;66:104025. doi:10.1016/j.msard.2022.104025
+12.
+Data on file. Genentech, Inc. South San Francisco, CA.
+Important Safety Information
+Indication
+ENSPRYNG is indicated for the treatment of neuromyelitis optica spectrum disorder (NMOSD) in adult patients who are anti-aquaporin-4 (AQP4) antibody positive.
+Contraindications
+ENSPRYNG is contraindicated in patients with a known hypersensitivity to satralizumab or any of the inactive ingredients, an active hepatitis B infection, or active or untreated latent tuberculosis.
+Warnings and Precautions
+Infections
+An increased risk of infections, including serious and potentially fatal infections, has been observed in patients treated with IL-6 receptor antagonists, including ENSPRYNG. The most common infections reported in a randomized clinical trial of patients treated with ENSPRYNG who were not on other chronic immunosuppressant therapies, and that occurred more often than in patients receiving placebo, were nasopharyngitis (12%) and cellulitis (10%). The most common infections in patients who were on an additional concurrent immunosuppressant, and that occurred more often than in patients receiving placebo, were nasopharyngitis (31%), upper respiratory infection (19%), and pharyngitis (12%). Delay ENSPRYNG administration in patients with an active infection, including localized infections, until the infection is resolved.
+Hepatitis B Virus (HBV) Reactivation
+Risk of HBV reactivation has been observed with other immunosuppressant therapies. Patients with chronic HBV infection were excluded from clinical trials. Perform HBV screening in all patients before initiation of treatment with ENSPRYNG. Do not administer ENSPRYNG to patients with active hepatitis. For patients who are chronic carriers of HBV [HBsAg+] or are negative for HBsAg and positive for HB core antibody [HBcAb+], consult liver disease experts before starting and during treatment with ENSPRYNG.
+Tuberculosis
+Tuberculosis has occurred in patients treated with other IL-6 receptor antagonists. Patients should be evaluated for tuberculosis risk factors and tested for latent infection prior to initiating ENSPRYNG. Consider anti-tuberculosis therapy prior to initiation of ENSPRYNG in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection.
+Important Safety Information continued below
+References: 1.
+ENSPRYNG [prescribing information]. South San Francisco, CA: Genentech, Inc. 2022.
+2.
+Wingerchuk DM, Hogancamp WF, O’Brien PC, Weinshenker BG. The clinical course of neuromyelitis optica (Devic’s syndrome).
+Neurology
+. 1999;53(5):1107-1118.
+3.
+Traboulsee A, Greenberg BM, Bennett JL, et al. Safety and efficacy of satralizumab monotherapy in neuromyelitis optica spectrum disorder: a randomized, double-blind, multicentre, placebo-controlled phase 3 trial.
+Lancet Neurol
+. 2020;19(5):402-412.
+4.
+Yamamura T, Kleiter I, Fujihara K, et al. Trial of satralizumab in neuromyelitis optica spectrum disorder.
+N Engl J Med
+. 2019;381(22):2114-2124.
+5.
+FDA approves Roche’s ENSPRYNG for neuromyelitis optica spectrum disorder. Press release. Genentech; August 14, 2020.
+6.
+Anderson M, Levy M. Advances in the long-term treatment of neuromyelitis optica spectrum disorder.
+J Cent Nerv Syst Dis
+. 2024;16:1-11.
+7.
+Sellner J, Sitte HH, Rommer PS. Targeting interleukin-6 to treat neuromyelitis optica spectrum disorders: implications from immunology, the FcRn pathway and clinical experience.
+Drug Discov Today
+. 2021;26(7):1591-1601.
+8.
+Barros PO, Cassano T, Hygino J, et al. Prediction of disease severity in neuromyelitis optica by the levels of interleukin (IL)-6 produced during remission phase.
+Clin Exp Immunol
+. 2016;183(3):480-489.
+9.
+Heo Y-A. Satralizumab: first approval.
+Drugs
+. 2020;80(14):1477-1482.
+10.
+Weinshenker B, Yeaman MR, de Seze J, et al. Long-term safety of satralizumab in adults with aquaporin-4-lgG-seropositive (AQP4-lgG+) neuromyelitis optica spectrum disorder (NMOSD). Presented at: the 75th Annual Meeting of the American Academy of Neurology; April 22-27, 2023; Boston, MA.
+11.
+Yamamura T, Weinshenker B, Yeaman MR, et al. Long-term safety of satralizumab in neuromyelitis optica spectrum disorder (NMOSD) from SAkuraSky and SAkuraStar.
+Mult Scler Relat Disord
+. 2022;66:104025. doi:10.1016/j.msard.2022.104025
+12.
+Data on file. Genentech, Inc. South San Francisco, CA.
+Important Safety Information
+Tuberculosis (cont’d)
+Consult infectious disease experts regarding whether initiating anti-tuberculosis therapy is appropriate before starting treatment. Patients should be monitored for the development of signs and symptoms of tuberculosis with ENSPRYNG, even if initial tuberculosis testing is negative.
+Tuberculosis has occurred in patients treated with other IL-6 receptor antagonists. Patients should be evaluated for tuberculosis risk factors and tested for latent infection prior to initiating ENSPRYNG. Consider anti-tuberculosis therapy prior to initiation of ENSPRYNG in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection. Consult infectious disease experts regarding whether initiating anti-tuberculosis therapy is appropriate before starting treatment. Patients should be monitored for the development of signs and symptoms of tuberculosis with ENSPRYNG, even if initial tuberculosis testing is negative.
+Vaccinations
+Live or live-attenuated vaccines should not be given concurrently with ENSPRYNG because clinical safety has not been established. Administer all immunizations according to immunization guidelines at least 4 weeks prior to initiation of ENSPRYNG for live or live-attenuated vaccines and, whenever possible, at least 2 weeks prior to initiation of ENSPRYNG for non-live vaccines.
+Elevated Liver Enzymes
+Mild and moderate elevations of liver enzymes have been observed in patients treated with ENSPRYNG at a higher incidence than in patients receiving placebo. ALT and AST levels should be monitored every 4 weeks for the first 3 months of treatment, followed by every 3 months for one year, and thereafter, as clinically indicated.
+Decreased Neutrophil Counts
+Decreases in neutrophil counts were observed in patients treated with ENSPRYNG at a higher incidence than placebo. Neutrophil counts should be monitored 4 to 8 weeks after initiation of therapy, and thereafter at regular clinically determined intervals.
+Hypersensitivity Reactions
+Hypersensitivity reactions, including rash, urticaria, and fatal anaphylaxis, have occurred with other IL-6 receptor antagonists.
+Use in Specific Populations
+Pregnancy
+Pregnancy Exposure Registry
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ENSPRYNG during pregnancy. Healthcare providers are encouraged to register patients and pregnant women are encouraged to register themselves by calling
+1-833-277-9338
+.
+There are no adequate data on the developmental risk associated with the use of ENSPRYNG in pregnant women. In an animal reproduction study, no adverse effects on maternal animals or fetal development were observed in pregnant monkeys and their offspring, with administration of ENSPRYNG at doses up to 50 mg/kg/week. In the U.S. general population, the estimated background risk of major birth defect and miscarriage in clinically recognized pregnancies is 2 – 4% and 15 – 20%, respectively. The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+Lactation
+No information is available on the presence of ENSPRYNG in human milk, the effects of ENSPRYNG on the breastfed infant, or the effects of ENSPRYNG on milk production. ENSPRYNG was excreted in the milk of lactating monkeys administered ENSPRYNG throughout pregnancy. Human IgG is excreted in human milk and the potential for absorption in the infant is unknown. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ENSPRYNG and any potential adverse effects on the breastfed infant from ENSPRYNG or from the underlying maternal condition.
+Pediatric Use
+Safety and effectiveness in pediatric patients have not been established.
+Geriatric Use
+Clinical studies of ENSPRYNG did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients. However, population pharmacokinetic analyses in patients with NMOSD did not show that age affected the pharmacokinetics of ENSPRYNG. In general, caution should be used when dosing the elderly, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant diseases or other drug therapy.
+Most Common Adverse Reactions
+The most common adverse reactions (≥15% in either trial) were nasopharyngitis (31%), headache (27%), upper respiratory tract infection (19%), rash (17%), arthralgia (17%), extremity pain (15%), gastritis (15%), fatigue (15%), and nausea (15%).
+You may report side effects to the FDA at
+(800) FDA-1088
+or
+www.fda.gov/medwatch
+. You may also report side effects to Genentech at
+(888) 835-2555
+.
+For additional safety information, please see the full
+Prescribing Information
+and
+Medication Guide
+.
+Contact Us
+Privacy Policy
+Terms and Conditions
+Unsubscribe
+This commercial email is brought to you by Genentech USA, Inc.
+This email is intended for US residents only
+© 2025 Genentech USA, Inc. All rights reserved.
+Genentech USA, Inc. 1 DNA Way South San Francisco, CA
+94080-4990
